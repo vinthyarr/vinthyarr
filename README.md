@@ -7,7 +7,6 @@ Frontend Developer, Backend Developer and Website Developer
 A highly motivated and diligent Computer Science student with a strong foundation in software development, algorithm design, and system optimization. Adept at leveraging programming languages and tools to create innovative and efficient solutions. Proven ability to work collaboratively in team environments and passionate about driving technological advancements through meticulous problem-solving and creative thinking. Eager to contribute to dynamic projects and collaborate with forward-thinking companies to deliver impactful and scalable software solutions.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Vinthya R R](http://vinthyarr.web.app)
 * ✉️  You can contact me at [rrvinthya@gmail.com](mailto:rrvinthya@gmail.com)
 
 ### Skills
